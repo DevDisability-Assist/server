@@ -1,7 +1,15 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "서버_발달장애인 대기자 지원프로젝트",
+  "homepage": "https://github.com/DevDisability-Assist/backend#readme",
+  "bugs": {
+    "url": "https://github.com/DevDisability-Assist/backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDisability-Assist/backend.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
